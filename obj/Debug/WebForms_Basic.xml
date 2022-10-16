@@ -1,0 +1,169 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Ora1
+</name>
+</assembly>
+<members>
+<member name="T:Ora1.My.MyWebExtension">
+ <summary>
+ Web プロジェクトの My Namespace で使用できるプロパティを定義するためのモジュール。
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Ora1.My.MyWebExtension.Computer">
+ <summary>
+ ホスト コンピューターに関する情報を返します。
+ </summary>
+</member>
+<member name="P:Ora1.My.MyWebExtension.User">
+ <summary>
+ 現在の Web ユーザーに関する情報を返します。
+ </summary>
+</member>
+<member name="P:Ora1.My.MyWebExtension.Request">
+ <summary>
+ Request オブジェクトを返します。
+ </summary>
+</member>
+<member name="P:Ora1.My.MyWebExtension.Response">
+ <summary>
+ Response オブジェクトを返します。
+ </summary>
+</member>
+<member name="P:Ora1.My.MyWebExtension.Log">
+ <summary>
+ Asp ログ オブジェクトを返します。
+ </summary>
+</member>
+<member name="F:Ora1.sample1._frmMain">
+<summary>
+frmMain コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:Ora1.sample1._btnTouroku">
+<summary>
+btnTouroku コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:Ora1.sample1._txtName">
+<summary>
+txtName コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:Ora1.sample1._txtPrice">
+<summary>
+txtPrice コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:Ora1.sample1._grvDetail">
+<summary>
+grvDetail コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="M:Ora1.sample1.GetData">
+ <summary>
+ データ取得
+ </summary>
+</member>
+<member name="M:Ora1.sample1.DispData(System.Data.DataTable)">
+ <summary>
+ データ表示
+ </summary>
+</member>
+<member name="M:Ora1.sample1.CheckData">
+ <summary>
+ 登録データをチェック
+ </summary>
+</member>
+<member name="M:Ora1.sample1.InsertData">
+ <summary>
+ データ登録
+ </summary>
+</member>
+<member name="F:Ora1.SiteMaster._MainContent">
+<summary>
+MainContent コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:Ora1.Site_Mobile._Head1">
+<summary>
+Head1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:Ora1.Site_Mobile._HeadContent">
+<summary>
+HeadContent コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:Ora1.Site_Mobile._form1">
+<summary>
+form1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:Ora1.Site_Mobile._FeaturedContent">
+<summary>
+FeaturedContent コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:Ora1.Site_Mobile._MainContent">
+<summary>
+MainContent コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+<member name="F:Ora1.Site_Mobile._ViewSwitcher1">
+<summary>
+ViewSwitcher1 コントロール。
+</summary>
+<remarks>
+自動生成されたフィールド。
+変更するには、フィールドの宣言をデザイナー ファイルから分離コード ファイルに移動します。
+</remarks>
+</member>
+</members>
+</doc>
